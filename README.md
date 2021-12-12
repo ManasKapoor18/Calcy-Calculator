@@ -5,7 +5,7 @@ A simple calculator app using HTML,CSS and JS!
 
 ## Demo:
 
-[View Project](https://linktodocumentation)
+[View Project](https://manaskapoor18.github.io/Calcy-Calculator/)
 
 
 ## Authors
