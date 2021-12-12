@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    background:black
+}
+.head{
+    color: aqua;
+    text-align: center;
+    margin-top: 42px;
+    font-size: 64px;
+    font-weight: 25px;
+}
+.box{
+    background-color: black;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.calculator{
+    width: fit-content;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#inputField{
+    width: 286px;
+    height: 40px;
+    padding: 0;
+    background-color: black;
+    color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: right;
+    padding-right: 4px;
+}
+.btn,.dlt,.eql,.back{
+    width: 70px;
+    height: 70px;
+    font-size: 25px;
+    background-color: black;
+    color: aqua;
+}
+.div{
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+    margin-bottom: 0;
+    background-color: black;
+    color: aqua;
+}
